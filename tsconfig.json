@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    // opsi lainnya...
+  },
+  "include": [
+    "src",
+    "qrcode-terminal.d.ts"
+  ]
+}
