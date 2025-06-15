@@ -1,6 +1,6 @@
-# 📋 Menu Bot WhatsApp (Pemakaian Pribadi)
+# 📋 Menu Bot WhatsApp 
 
-Selamat datang di Bot WhatsApp pemakaian pribadi! Bot ini memiliki fitur-fitur menarik serta kemampuan membaca pesan yang telah dihapus.
+Selamat datang di Bot WhatsApp! Bot ini memiliki fitur-fitur menarik serta kemampuan membaca pesan yang telah dihapus.
 
 ---
 
@@ -31,12 +31,6 @@ Selamat datang di Bot WhatsApp pemakaian pribadi! Bot ini memiliki fitur-fitur m
 
 - Cukup kirim pesan suara, bot akan otomatis men-transkrip dan membalas dengan suara juga.
 
----
-
-### Catatan
-
-- Fitur "baca pesan terhapus" hanya aktif jika bot menjadi admin pada grup atau sudah diberi izin akses.
-- Gunakan fitur-fitur ini secara bijak dan sesuai kebutuhan pribadi.
 
 ---
 
