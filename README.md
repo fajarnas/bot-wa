@@ -1,4 +1,4 @@
-# 📋 Menu Bot WhatsApp 
+# 📋 Bot WhatsApp 
 
 Selamat datang di Bot WhatsApp! Bot ini memiliki fitur-fitur menarik serta kemampuan membaca pesan yang telah dihapus.
 
